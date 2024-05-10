@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lcd": "^3.1.1",
+    "rpio": "^2.4.2",
+    "wakeonlan": "^0.1.0"
+  }
+}
